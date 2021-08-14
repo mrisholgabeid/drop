@@ -1,6 +1,6 @@
-The website you are looking at is a test sample of my main site which is available here: https://menetcorp.com/cmalt.
+# The website you are looking at is a test sample of my main site which is available here: https://menetcorp.com/cmalt.
 
-# the site available on the link provided uses the previous design I created 2 years ago. this new website design was created 4 days ago.
+the site available on the link provided uses the previous design I created 2 years ago. this new website design was created 4 days ago.
 
 # I NEED HELP WITH THE FOLLOWING:
 - I would like to create better dropdown menus (currently marked as Core Area [1, 2, and 3]).
